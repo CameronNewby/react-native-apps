@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "expo-cli": "^3.0.9"
+    "expo-cli": "^6.0.6"
   },
   "devDependencies": {},
   "scripts": {
